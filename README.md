@@ -1,5 +1,5 @@
 
-## CRUD PRODUCTOS - PHP MySQL
+## CRUD - PHP MySQL
 
 Instalación:
 - Crear base de datos con el nombre test_millenium
